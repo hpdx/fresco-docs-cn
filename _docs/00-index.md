@@ -60,5 +60,8 @@ dependencies {
 
 > 建议尽早使用 Android Studio。
 
+若你已使用管了Glide或Picasso，想以类似的方式使用Fresco，那么可以试试这个库：https://github.com/hpdx/fresco-helper
+
+
 
 
